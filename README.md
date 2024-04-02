@@ -16,3 +16,15 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 ● Where are customers with a high lifetime value based?
 
 ● Do sales figures vary between geographic regions?
+
+## Data Set
+
+Rockbuster Dataset - The datasets used in this project was created by CareerFoundry for the use of this analysis.  The dataset includes information on film inventory, customers, payments, staff, store information, film categories, film languages, actors, rental history and payment history.
+
+## Tools
+
+This analysis was conducted using a relational database management system and PostgreSQL
+
+## Visualizations
+
+Visualizations for this analysis were created in Tableau Public and may be viewed here ----> [Tableau Public] (https://public.tableau.com/app/profile/andrew.ruhnow/viz/Exercise3_10PresentingSQLResults_17024932132500/SalesbyCategory?publish=yes)
